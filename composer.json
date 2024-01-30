@@ -1,0 +1,17 @@
+{
+    "name": "matt/genius_lyrics_project",
+    "autoload": {
+        "psr-4": {
+            "Matt\\GeniusLyricsProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matt Hickling",
+            "email": "m.hickling@hotmail.co.uk"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
