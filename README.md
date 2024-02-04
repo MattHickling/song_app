@@ -14,7 +14,7 @@ This is a PHP project that allows users to search for songs by entering lyrics o
 - HTML
 - CSS
 - JavaScript
-- [External API Name] (Link to the API documentation)
+- Genius Song Api https://rapidapi.com/Glavier/api/genius-song-lyrics1/
 
 ## Setup
 
